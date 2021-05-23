@@ -1,0 +1,4 @@
+﻿  stringCompression.cpp
+C:\Users\polma_x7zuynn\OneDrive\Pulpit\Informatyka\stringCompression\stringCompression\stringCompression.cpp(22,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\polma_x7zuynn\OneDrive\Pulpit\Informatyka\stringCompression\stringCompression\stringCompression.cpp(46,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  stringCompression.vcxproj -> C:\Users\polma_x7zuynn\OneDrive\Pulpit\Informatyka\stringCompression\Debug\stringCompression.exe
